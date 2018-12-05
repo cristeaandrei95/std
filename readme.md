@@ -1,6 +1,6 @@
 ## @nore/std
 
-Nore standard library for JavaScript.
+Nore standard library.
 
 ### Install
 

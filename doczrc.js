@@ -3,5 +3,5 @@ export default {
 	dest: "./docs",
 	base: "/std",
 	title: "@nore/std",
-	description: "Nore's standard library",
+	description: "Nore standard library",
 };
