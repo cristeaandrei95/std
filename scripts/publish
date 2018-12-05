@@ -1,0 +1,6 @@
+cp -r source dist
+cp package.json license dist
+cd dist
+npm publish --access public
+cd ..
+rm -rf dist

@@ -1,0 +1,22 @@
+{
+	"name": "@nore/std",
+	"description": "Nore standard library",
+	"version": "1.0.0",
+
+	"author": "Navaru",
+	"license": "MIT",
+	"repository": "https://github.com/nore/std",
+	"homepage": "https://github.com/nore/std#readme",
+
+	"scripts": {
+		"npm:publish": "scripts/publish",
+		"docz:dev": "docz dev",
+		"docz:build": "docz build"
+	},
+
+	"devDependencies": {
+		"@nore/esm": "^2.3.0",
+		"tap": "^12.1.0",
+		"docz": "^0.12.15"
+	}
+}
