@@ -1,2 +1,2 @@
-export { default as escape } from "./escape";
-export { default as unescape } from "./unescape";
+export { default as escape } from "./escape.js";
+export { default as unescape } from "./unescape.js";
