@@ -21,3 +21,8 @@ export { default as isBuffer } from "./isBuffer.js";
 export { default as isRegExp } from "./isRegExp.js";
 export { default as isDate } from "./isDate.js";
 export { default as isError } from "./isError.js";
+export { default as isArrayLike } from "./isArrayLike";
+export { default as isObjectLike } from "./isObjectLike";
+export { default as isArrayLikeObject } from "./isArrayLikeObject";
+
+export { default as isLength } from "./isLength";
